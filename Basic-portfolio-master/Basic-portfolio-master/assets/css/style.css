@@ -216,3 +216,22 @@ body {
     border: 0 none;
   }
   
+  @media only screen and (max-width:980px) {
+    nav {
+      margin-right: 5px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .main-section,
+    .sidebar {
+      max-width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 640px){
+    #masthead {
+      position: static;
+      margin-bottom: 20px;
+    }
+  }
