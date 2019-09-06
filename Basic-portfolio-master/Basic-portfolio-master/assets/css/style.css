@@ -215,6 +215,8 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  /* medias*/
   
   @media only screen and (max-width:980px) {
     nav {
