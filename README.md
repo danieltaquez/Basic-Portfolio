@@ -1,2 +1,2 @@
-# Basic-portfolio resposive 
-Copied the website from homework #1. Media queries are at the end of the css page. 
+# Basic-portfolio
+I just copied the portfolio from homework #1 and put media queries on it
